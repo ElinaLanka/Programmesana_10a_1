@@ -1,5 +1,5 @@
 #Tatjana Grencione
-print(5**3+6/2)
+print(5**3+6/2+0.2)
 #1 Arhipenko Sofja
 
 #3 FiĆÆimonovs Eldars
