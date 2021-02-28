@@ -3,4 +3,4 @@ Pirmais darbs ar GitHub
 Es macos Jelgavas 5.vidusskola
 Es esmu izcils programmetajs.
 777777777777777777777777777
-333333333333333333333333
+111111111111
